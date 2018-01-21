@@ -1,0 +1,7 @@
+<resources>
+
+<style name="MaterialTheme" parent="ParentMaterialTheme">
+    <!-- Customize for version 21 and up. -->
+</style>
+
+</resources>

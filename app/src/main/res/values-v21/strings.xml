@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Task Loot</string>
+    <string name="action_settings">Settings</string>
+    <string name="modify_total_loot">Modify Total Loot</string>
+    <string name="new_value">55.55</string>
+    <string name="task_name_text">Task Name:</string>
+    <string name="task_hint_text">Task Name</string>
+    <string name="weekly">Weekly</string>
+    <string name="daily">Daily</string>
+    <string name="task_type_text">Task Type</string>
+    <string name="task_occurences">Possible Occurences</string>
+</resources>
